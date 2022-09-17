@@ -8,3 +8,7 @@
 - :earth_africa: Fun fact: I'm from Norway, but I've previously lived in the U.S. and Russia
 - 📫 How to reach me: sirisols@gmail.com
 -->
+
+[![Siri’s github stats](https://github-readme-stats.vercel.app/api?username=SiriSollerud)](https://github.com/SiriSollerud)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriSollerud&layout=compact)](https://github.com/SiriSollerud)
