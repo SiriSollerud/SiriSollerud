@@ -9,7 +9,7 @@
 - 📫 How to reach me: sirisols@gmail.com
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriSollerud&layout=compact&show_icons=true&theme=jolly)
+![Siri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriSollerud&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiriSollerud&layout=compact&show_icons=true&theme=jolly)
 
 
 
