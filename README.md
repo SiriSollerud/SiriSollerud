@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mag: I'm currently looking for a junior software developer job where I can collaborate on real projects!
+- :mag: I'm currently looking for a junior software developer job where I can collaborate on real projects and learn a ton!
 - 🌱 I’m learning React and want to develop my frontend skills
 - :mortar_board: I will graduate with a Bachelor in Programming and System Architecture from UiO Dec. 2022
 - :raising_hand: I teach introduction to OOP with Python to first year students at UiO as a group-teacher
