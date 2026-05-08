@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- 🌱 I’m developing my frontend and UX skills as a Design Engineer at Telenor!
-- :mortar_board: Bachelor in Programming and System Architecture from UiO
-- :raising_hand: I taught introductory OOP with Python to first year students at UiO as a group-teacher
-- :earth_africa: Fun fact: I'm from Norway, but I've previously lived in the U.S. and Russia
+- 🚀 Design Engineer at Telenor, sharpening my frontend and UX craft
+- 💙 I love working iteratively with our users — doing insight and testing to solve the right problems for our diverse user groups!
+- ✨ Previously at Bredvid AS, designing and developing solutions for clients like NTB, Olympiatoppen, NKF, DCP, and Multiconsult
+- 🎓 BSc in Programming and System Architecture, UiO — also taught introductory OOP with Python as a TA
+- 🌍 Norwegian, but spent 8 years living in the U.S.
 - 📫 How to reach me: sirisols@gmail.com
